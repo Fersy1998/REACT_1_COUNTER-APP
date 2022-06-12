@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en la primera APp.js should say if App is lacking something new! "Hello, I´m Fersy" 1`] = `
+<Fragment>
+  <h1>
+    <pre>
+      Hello, I´m Fersy 23
+    </pre>
+  </h1>
+  !!!
+  <p>
+    New One for third time
+  </p>
+</Fragment>
+`;
